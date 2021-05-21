@@ -1,0 +1,12 @@
+{
+  "name": "ahorcado",
+  "displayName": "ahorcado",
+  "expo": {
+    "name": "ahorcado",
+    "slug": "ahorcado",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
